@@ -17,13 +17,13 @@
     'name': 'Number Of Delivery and_invoice',
     'version': '12.0.1.0',
     'summary': 'Number Of Delivery and_invoice',
-    'author': 'Zero Systems,cybrosys,sitaramsolutions',
+    'description': """ Most of Restaurant and Retail Point of Sale needs as the following""" 
+    'author': 'Zero Systems'
     'website': "https://www.erpzero.com",
     'company': 'Zero For Information Systems',
     'depends': ['stock','account'],
     'data': [],
-
-    'license': 'AGPL-3',
+    'images': ['static/description/logo.PNG'],
     'installable': True,
     'auto_install': False,
     'application': False,
